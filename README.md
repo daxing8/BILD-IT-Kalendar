@@ -1,1 +1,1 @@
-# BILD-IT-Kalendar
+# BILD-IT-Mini projekti
